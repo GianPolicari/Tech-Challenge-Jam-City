@@ -1,0 +1,30 @@
+C:\Users\giani\OneDrive\Documentos\Test Challenge 3\testing\obj\Debug\net7.0\testing.csproj.AssemblyReference.cache
+C:\Users\giani\OneDrive\Documentos\Test Challenge 3\testing\obj\Debug\net7.0\testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giani\OneDrive\Documentos\Test Challenge 3\testing\obj\Debug\net7.0\testing.AssemblyInfoInputs.cache
+C:\Users\giani\OneDrive\Documentos\Test Challenge 3\testing\obj\Debug\net7.0\testing.AssemblyInfo.cs
+C:\Users\giani\OneDrive\Documentos\Test Challenge 3\testing\obj\Debug\net7.0\testing.csproj.CoreCompileInputs.cache
+C:\Users\giani\OneDrive\Documentos\Test Challenge 3\testing\bin\Debug\net7.0\testing.exe
+C:\Users\giani\OneDrive\Documentos\Test Challenge 3\testing\bin\Debug\net7.0\testing.deps.json
+C:\Users\giani\OneDrive\Documentos\Test Challenge 3\testing\bin\Debug\net7.0\testing.runtimeconfig.json
+C:\Users\giani\OneDrive\Documentos\Test Challenge 3\testing\bin\Debug\net7.0\testing.dll
+C:\Users\giani\OneDrive\Documentos\Test Challenge 3\testing\bin\Debug\net7.0\testing.pdb
+C:\Users\giani\OneDrive\Documentos\Test Challenge 3\testing\obj\Debug\net7.0\testing.dll
+C:\Users\giani\OneDrive\Documentos\Test Challenge 3\testing\obj\Debug\net7.0\refint\testing.dll
+C:\Users\giani\OneDrive\Documentos\Test Challenge 3\testing\obj\Debug\net7.0\testing.pdb
+C:\Users\giani\OneDrive\Documentos\Test Challenge 3\testing\obj\Debug\net7.0\testing.genruntimeconfig.cache
+C:\Users\giani\OneDrive\Documentos\Test Challenge 3\testing\obj\Debug\net7.0\ref\testing.dll
+C:\Users\giani\OneDrive\Documentos\Tech Challenge Jam City 3\testing\bin\Debug\net7.0\testing.exe
+C:\Users\giani\OneDrive\Documentos\Tech Challenge Jam City 3\testing\bin\Debug\net7.0\testing.deps.json
+C:\Users\giani\OneDrive\Documentos\Tech Challenge Jam City 3\testing\bin\Debug\net7.0\testing.runtimeconfig.json
+C:\Users\giani\OneDrive\Documentos\Tech Challenge Jam City 3\testing\bin\Debug\net7.0\testing.dll
+C:\Users\giani\OneDrive\Documentos\Tech Challenge Jam City 3\testing\bin\Debug\net7.0\testing.pdb
+C:\Users\giani\OneDrive\Documentos\Tech Challenge Jam City 3\testing\obj\Debug\net7.0\testing.csproj.AssemblyReference.cache
+C:\Users\giani\OneDrive\Documentos\Tech Challenge Jam City 3\testing\obj\Debug\net7.0\testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giani\OneDrive\Documentos\Tech Challenge Jam City 3\testing\obj\Debug\net7.0\testing.AssemblyInfoInputs.cache
+C:\Users\giani\OneDrive\Documentos\Tech Challenge Jam City 3\testing\obj\Debug\net7.0\testing.AssemblyInfo.cs
+C:\Users\giani\OneDrive\Documentos\Tech Challenge Jam City 3\testing\obj\Debug\net7.0\testing.csproj.CoreCompileInputs.cache
+C:\Users\giani\OneDrive\Documentos\Tech Challenge Jam City 3\testing\obj\Debug\net7.0\testing.dll
+C:\Users\giani\OneDrive\Documentos\Tech Challenge Jam City 3\testing\obj\Debug\net7.0\refint\testing.dll
+C:\Users\giani\OneDrive\Documentos\Tech Challenge Jam City 3\testing\obj\Debug\net7.0\testing.pdb
+C:\Users\giani\OneDrive\Documentos\Tech Challenge Jam City 3\testing\obj\Debug\net7.0\testing.genruntimeconfig.cache
+C:\Users\giani\OneDrive\Documentos\Tech Challenge Jam City 3\testing\obj\Debug\net7.0\ref\testing.dll
